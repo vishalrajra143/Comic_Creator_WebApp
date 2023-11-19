@@ -1,0 +1,18 @@
+*,*::before,*::after{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+  
+  .contain{
+    background-color: #333;
+   width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  
+  
